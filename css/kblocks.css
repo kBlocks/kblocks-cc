@@ -364,6 +364,14 @@ section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
 
+section.contact ul.list-social li.social-telegram a {
+  background-color: #1da1f2;
+}
+
+section.contact ul.list-social li.social-telegram a:hover {
+  background-color: #0d95e8;
+}
+
 footer {
   text-align: center;
   color: rgba(255, 255, 255, 0.3);
